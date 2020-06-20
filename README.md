@@ -1,94 +1,94 @@
-#Training Session
+# Training Session
 
 List Programming Language and Syntax
 
-##python
+## python
 	
 	print("Hello world")
 
-##java
+## java
 	  
     	System.out.println("Hello World");
 
-##html
+## html
 
 	<p>Hello world</p>
 
-##javascript
+## javascript
 
 	<script>
 	document.getElementById("demo").innerHTML = 'Hello world';
 	</script>
 
-##c
+## c
 
 	printf("Hello, World! \n");
 
-##c++
+## c++
 
   	cout << "Hello World";
         return 0;
 
-##c#
+## c#
 
 	Console.WriteLine("Hello World");
 
-##php	
+## php	
 
 	echo "Hello world";
 	
-##gosu
+## gosu
 	
 	print("Hello World")
 
-##swift
+## swift
 
 	var myString = "Hello, World!"
 	print(myString)
 
-##objective-c
+## objective-c
 
 	NSLog(@"Hello, World! \n");
 
-##ruby
+## ruby
 
 	puts "Hello world";
 
-##e
+## e
 
 	println("Hello world!")
 
-##actionscript
+## actionscript
 
 	txtHello.text = "Hello world";
 
-##css
+## css
 
 	<p>Hello World</p>
 
-##ada
+## ada
 
 	Put_Line ("Hello world");
 
-##jquery
+## jquery
 	
 	color: black;
   	text-align: center;
 	/
 	$("p").hide()
 
-##cobra
+## cobra
 	
 	print 'Hello world'
 
-##visual basic.net
+## visual basic.net
 
 	Console.WriteLine("Hello, World!")
 
-##tom 
+## tom 
 
 	print "Hello, world!"
 
-##fortress 
+## fortress 
 
 	println(“Hello, World!”)
